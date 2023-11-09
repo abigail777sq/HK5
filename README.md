@@ -4,4 +4,4 @@ Integrantes:
 - Aaron Victor Manuel Timana Castro
 - Chiara Olenka Lázaro Condor
 
-En la rama hackaton5 se pueden viasualizar los archivos utilizados.
+En la rama hackaton5 se pueden visualizar los archivos utilizados.
